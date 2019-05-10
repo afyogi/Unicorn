@@ -1,0 +1,6 @@
+bokeh
+pandas
+geopandas
+pyshp
+matplotlib
+seaborn
