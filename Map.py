@@ -9,6 +9,7 @@ import numpy as np
 import pandas as pd
 import shapefile as shp
 import matplotlib.pyplot as plt
+matplotlib.use('Agg')
 import seaborn as sns
 from bokeh.io import curdoc, output_notebook
 from bokeh.models import Slider, HoverTool, Panel
