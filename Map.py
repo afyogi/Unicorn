@@ -8,8 +8,9 @@ import geopandas as gpd
 import numpy as np
 import pandas as pd
 import shapefile as shp
-import matplotlib.pyplot as plt
+import matplotlib
 matplotlib.use('Agg')
+import matplotlib.pyplot as plt
 import seaborn as sns
 from bokeh.io import curdoc, output_notebook
 from bokeh.models import Slider, HoverTool, Panel
