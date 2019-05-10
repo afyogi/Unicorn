@@ -1,0 +1,310 @@
+	Company	Valuation	Category	Country	Funding	Investors
+0	17zuoye	1000	Internet Software & Services	China	385.0	DST Global, Temasek Holdings
+1	23andMe	1615	Healthcare	United States	794.0	Google Ventures, New Enterprise Associates, MPM Capital
+2	4Paradigm	1200	Internet Software & Services	China	145.0	Sequoia Capital China, China Construction Bank, Bank of China
+3	9f Group	1000	Fintech	China	178.0	China Cinda Asset Management, IDG Capital
+4	About You	1000	E-commerce	Germany	300.0	German Media Pool, Seven Venture Capital
+5	ACORN OakNorth Holdings	2300	Fintech	United Kingdom	550.0	Clermont Group, Coltrane Asset Management, Toscafund Asset Management
+6	Actifio	1300	Data Analytics	United States	308.0	Greylock Partners, North Bridge Venture Partners, Technology Crossover Ventures
+7	Adaptive Biotechnologies	1000	Healthcare	United States	416.0	Illumina, Celgene, Casdin Capital
+8	Affirm	1790	Fintech	United States	725.0	Andreessen Horowitz, Khosla Ventures, Singapore Wealth Fund
+9	Afiniti	1600	Internet Software & Services	United States	162.0	GAM Holding
+10	Age of Learning	1000	Internet Software & Services	United States	182.0	Iconiq Capital
+11	Aihuishou	1500	E-commerce	China	278.0	Morningside Ventures, JD.com, Tiantu Capital
+12	Aijia Life	1000	E-commerce	China	146.0	Tiantu Capital, Fortune Capital, Zhenghedao Fund
+13	Airbnb	29252	E-commerce	United States	4398.0	General Catalyst Partners, Andreessen Horowitz, ENIAC Ventures
+14	Airtable	1100	Internet Software & Services	United States	163.0	Caffeinated Capital, CRV, Founder Collective
+15	Allbirds	1400	E-commerce	United States	78.0	Lerer Hippeau Ventures, T. Rowe Price, Tiger Global Management
+16	AppDirect	1000	Internet Software & Services	United States	250.0	Mithril, iNovia Capital, Foundry Group
+17	AppLovin	2000	Internet Software & Services	United States	1385.0	Orient Hontai Capital, Webb Investment Network
+18	Apus Group	1000	Other	China	116.0	Redpoint Ventures, QiMing Venture Partners, Chengwei Capital
+19	Asana	1500	Internet Software & Services	United States	212.0	8VC, Benchmark, Generation Investment Management
+20	Atom Bank	1249	Fintech	United Kingdom	514.0	Toscafund Asset Management, Woodford Investment Management, BBVA
+21	Auris Health	1014	Healthcare	United States	733.0	Lux Capital, Mithril Capital Management, Highland Capital Partners
+22	Auto1 Group	3539	E-commerce	Germany	1064.0	Digital Sky Technologies, Piton Capital, DN Capital, SoftBank Group
+23	Automation Anywhere	2600	Internet Software & Services	United States	550.0	General Atlantic, Goldman Sachs, New Enterprise Associates
+24	Automattic	1242	Internet Software & Services	United States	193.0	Insight Venture Partners, Lowercase Capital, Polaris Partners
+25	Avaloq Group	1008	Fintech	Switzerland	300.0	Warbug Pincus
+26	Avant	1896	Fintech	United States	1719.0	RRE Ventures, Tiger Global, August Capital
+27	AvidXchange	1244	Fintech	United States	574.0	Temasek Holdings, Charlotte Angel Partners, TPG Growth
+28	BeiBei	1000	E-commerce	China	224.0	Banyan Capital, New Horizon Capital, IDG Capital Partners
+29	BenevolentAI	2100	Healthcare	United Kingdom	256.0	Woodford Investment Management
+30	BGL Group	3000	Fintech	United Kingdom	900.0	CPP Investment Board
+31	Bird Rides	2000	Travel Tech	United States	418.0	Tusk Ventures, Craft Ventures, Sequoia Capital
+32	Bitmain Technologies	12000	Fintech	China	450.0	Coatue Management, Sequoia Capital China, IDG Capital
+33	BlaBlaCar	1600	On-Demand	France	449.0	Accel Partners, Index Ventures, Insight Venture Partners
+34	Bluehole	5000	Internet Software & Services	South Korea	48.0	Tencent Holdings, Stonebridge Capital, IMM Investment
+35	BrewDog	1240	Other	United Kingdom	297.0	TSG Consumer Partners, Crowdcube
+36	Brex	1100	Fintech	United States	182.0	DST Global, Ribbit Capital, Greenoaks Capital Management
+37	Bukalapak	1000	E-commerce	Indonesia	50.0	500 Startups, Batavia Incubator, Emtek Group
+38	Butterfly Network	1250	Healthcare	United States	350.0	Bill & Melinda Gates Foundation, Aeris Capital,
+39	Buzzfeed	1895	Media	United States	497.0	SV Angel, RRE Ventures, New Enterprise Associates
+40	BYJU's	4000	Internet Software & Services	India	850.0	Tencent Holdings, Lightspeed India Partners, Sequoia Capital India
+41	Bytedance	75000	Media	China	3105.0	Sequoia Capital China, SIG Asia Investments, Sina Weibo, Softbank Group
+42	C3	1564	Internet Software & Services	United States	243.0	Makena Capital Management, TPG Growth, Breyer Capital
+43	Cabify	1400	On-Demand	Spain	412.0	Seaya Ventures, Otter Rock Capital, Rakuten
+44	Cambricon	2500	Hardware	China	101.0	Alibaba Entrepreneurs Fund, CAS Investment Management Co., Lenovo Ventures Group
+45	Canva	1280	Internet Software & Services	Australia	85.0	Sequoia Capital China, Blackbird Ventures, Matrix Partners
+46	CAOCAO	1600	On-Demand	China	381.0	People Electrical Appliance Group China, Zhongrong International Trust
+47	Carbon	1504	Hardware	United States	432.0	Google Ventures, Sequoia Capital, Wakefield Group
+48	Careem Networks	2000	On-Demand	United Arab Emirates	772.0	STC Ventures, Al Tayyar Travel Group, Wamda Capital
+49	Cell C	1000	Other	South Africa	547.0	Blue Label Telecoms, Net1 UEPS Technologies
+50	Celonis	1000	Data Analytics	Germany	78.0	Accel, 83North
+51	Cgtz	1413	Fintech	China	536.0	Shunwei Capital Partners, China Media Group, Guangzhou Huiyin Aofeng Equity Investment Fund
+52	Chehaoduo	6600	E-commerce	China	2304.0	Sequoia Capital China, GX Capital
+53	Circle Internet Financial	3000	Fintech	United States	246.0	General Catalyst, Digital Currency Group, Accel
+54	CloudFlare	1818	Cybersecurity	United States	182.0	New Enterprise Associates, Pelion Venture Partners, Union Square Ventures
+55	Cloudwalk	3319	Hardware	China	517.0	Oriza Holdings, Guangdong Technology Financial Group
+56	Clover Health	1127	Healthcare	United States	425.0	Google Ventures, Sequoia Capital, First Round Capital
+57	Cohesity	1000	Internet Software & Services	United States	410.0	SoftBank Group, Sequoia Capital, Wing Venture Capital
+58	Coinbase	8000	Fintech	United States	539.0	Y Combinator, Union Square Ventures, DFJ Growth
+59	Compass	4400	Other	United States	1143.0	Founders Fund, Thrive Capital, Wellington Management
+60	Convoy	1000	On-Demand	United States	276.0	Greylock Partners, capitalG, Y Combinator
+61	Coocaa	1451	Hardware	China	227.0	Baidu, Tencent Holdings
+62	Coupang	9000	E-commerce	South Korea	3844.0	Sequoia Capital, Founder Collective, Wellington Management
+63	Credit Karma	4000	Fintech	United States	368.0	Felicis Ventures, SV Angel, Founders Fund
+64	CrowdStrike	3000	Cybersecurity	United States	481.0	Warbug Pincus, capitalG, Accel Partners
+65	CureVac	1680	Healthcare	Germany	434.0	dievini Hopp BioTech Holding & Co., Eli Lilly & Co., LBBW Venture Capital
+66	Dada-JD Daojia	1000	On-Demand	China	1150.0	DST Global, Sequoia Capital China
+67	Darktrace	1650	Cybersecurity	United Kingdom	232.0	Northview Ventures, dievini Hopp BioTech Holding & Co.m Baillie Gifford & Co.
+68	Dataminr	1600	Data Analytics	United States	569.0	Venrock, Institutional Venture Partners, Goldman Sachs
+69	Deezer	1160	Internet Software & Services	France	442.0	China International Capital Corporation, Hunan TV & Broadcast Intermediary, Shanghai Media Group
+70	Deliveroo	2000	On-Demand	United Kingdom	958.0	Accel Partners, General Catalyst, Index Ventures
+71	Desktop Metal	1000	Hardware	United States	277.0	Australian Future Fund, GE Ventures, Data Collective
+72	Devoted Health	1800	Healthcare	United States	369.0	Andreessen Horowitz, F-Prime Capital, Venrock
+73	Didi Chuxing	56000	On-Demand	China	18567.0	Matrix Partners, Tiger Global Management, Softbank Corp.,
+74	Ding Xiang Yuan	1000	Healthcare	China	172.0	Tencent Holdings, DCM Ventures
+75	Discord	2050	Social	United States	279.0	Benchmark, Greylock Partners, Tencent Holdings
+76	DJI Innovations	10000	Hardware	China	105.0	Accel Partners, Sequoia Capital
+77	Docker	1469	Internet Software & Services	United States	271.0	Greylock Partners, Lightspeed Venture Partners, Lowercase Capital
+78	DoorDash	4000	On-Demand	United States	972.0	Softbank Group, Sequoia Capital, Khosla Ventures
+79	Douyu	1507	Internet Software & Services	China	976.0	CMB International Capital, Nanshan Capital, Tencent Holdings
+80	DT Dream	1000	Internet Software & Services	China	176.0	Alibaba Group, China Everbright Investment Management, Yinxinggu Capital
+81	Easyhome	5780	Other	China	2085.0	Alibaba Group, Boyu Capital, Borui Capital
+82	Epic Games	15000	Other	United States	1595.0	Tencent Holdings, KKR, Smash Ventures
+83	ESR Cayman	2800	Other	Hong Kong	1338.0	SK Group, GF Investments, China Minsheng Banking Corp.
+84	Face++	1000	Internet Software & Services	China	608.0	Ant Financial Services Group, Russia-China Investment Fund, Foxconn Technology Company
+85	Fanatics	4500	E-commerce	United States	1695.0	SoftBank Group, Andreessen Horowitz, Temasek Holdings
+86	Fanli	1000	E-commerce	China	90.0	QiMing Venture Partners, Steam boat Ventures
+87	FlashEx	1000	Internet Software & Services	China	214.0	Prometheus Capital, Matrix Partners China, JD Capital Management
+88	Flexport	1000	Internet Software & Services	United States	302.0	Bloomberg Beta, Founders Fund, First Round Capital
+89	Formlabs	1065	Hardware	United States	104.0	Pitango Venture Capital, DFJ Growth Fund, Foundry Group
+90	Freshworks	1500	Internet Software & Services	United States	249.0	Accel, Tiger Global Management, capitalG
+91	Gan & Lee Pharmaceuticals	1626	Healthcare	China	428.0	Qiming Venture Partners, Goldman Sachs, Hillhouse Capital Management
+92	Geek+	1000	Internet Software & Services	China	234.0	Volcanics Ventures, Vertex Ventures China, Warburg Pincus
+93	Gett	1400	On-Demand	Israel	693.0	Volkswagen, Access Industries, Vostok New Ventures
+94	Ginkgo BioWorks	1300	Healthcare	United States	436.0	Y Combinator, Data Collective, MassVentures
+95	GitLab	1100	Internet Software & Services	United States	166.0	Google Ventures, ICONIQ Capital, Khosla Ventures
+96	Global Fashion Group	1100	E-commerce	Luxembourg	575.0	Access Industries, Rocket Internet, Tengelmann Ventures
+97	Global Switch	11084	Hardware	United Kingdom	6255.0	Aviation Industry Corporation of China, Essence Financial, Jiangsu Sha Steel Group
+98	GO-JEK	5000	On-Demand	Indonesia	2235.0	Formation Group, Sequoia Capital India, Warburg Pincus
+99	GoodRx	2800	Healthcare	United States	1.0	Silver Lake Partners, SV Angel, Upfront Ventures
+100	Grab	11000	On-Demand	Singapore	7040.0	GGV Capital, Vertex Venture Holdings, Softbank Group
+101	GRAIL	2443	Healthcare	United States	1615.0	Kleiner Perkins Caufield & Byers, Amazon, Merck & Co.
+102	Graphcore	1700	Hardware	United Kingdom	310.0	Dell Technologies Capital, Pitango Venture Capital, Amadeus Capital Partners
+103	Gusto	2000	Fintech	United States	316.0	General Catalyst Partners, Google Ventures, Kleiner Perkins Caufield & Byers
+104	HashiCorp	1900	Internet Software & Services	United States	174.0	Redpoint Ventures, True Ventures, Mayfield Fund
+105	HeartFlow	1500	Healthcare	United States	477.0	BlueCross BlueShield Venture Partners, US Venture Partners
+106	Hello TransTech	5000	Travel Tech	China	2082.0	Ant Financial Services Group, GGV Capital
+107	Hike	1400	Social	India	261.0	Foxconn, Tiger Global management, Tencent
+108	Houzz	3841	E-commerce	United States	614.0	New Enterprise Associates, Sequoia Capital, Comcast Ventures
+109	Huike Group	1000	Internet Software & Services	China	63.0	Fosun RZ Capital, Oceanwide Holdings, Shenzhen Qianhe Capital Management Co.
+110	HuiMin	2000	On-Demand	China	295.0	Zheshang Venture Capital, GP Capital, Western Capital Management
+111	HuJiang	1000	Internet Software & Services	China	177.0	China Minsheng Investment, Baidu, Wanxin Media
+112	Human Longevity	1190	Healthcare	United States	300.0	Celgene, GE Ventures, Draper Fisher Jurvetson
+113	iCarbonX	1000	Healthcare	China	199.0	Tencent, Vcanbio
+114	iFood	1000	Data Analytics	Brazil	586.0	Movile, Just Eat, Naspers
+115	Illumio	1002	Cybersecurity	United States	267.0	Data Collective, Formation 8, General Catalyst Partners
+116	Improbable	2000	Other	United Kingdom	604.0	Andreessen Horowitz, SoftBank Group, Temasek Holdings
+117	Indigo Agriculture	3500	Healthcare	United States	616.0	Activant Capital Group, Alaska Permanent Fund, Baillie Gifford & Co.
+118	Infinidat	1600	Hardware	United States	325.0	TPG Growth, Goldman Sachs
+119	Infor	10000	Internet Software & Services	United States	4133.0	Blackstone Group, Koch Industries
+120	InMobi	1000	Internet Software & Services	India	321.0	Kleiner Perkins Caufield & Byers, Softbank Corp., Sherpalo Ventures
+121	InsideSales.com	1697	Data Analytics	United States	264.0	Microsoft Ventures, US Venture Partners, Kleiner Perkins Caufield & Byers
+122	Instacart	7870	On-Demand	United States	1896.0	Khosla Ventures, Kleiner Perkins Caufield & Byers, Collaborative Fund
+123	Intarcia Therapeutics	3803	Healthcare	United States	1289.0	New Enterprise Associates, New Leaf Venture Partners, Charter Venture Capital
+124	Intercom	1275	Internet Software & Services	United States	240.0	FirstMark Capital, Tiger Global Management
+125	InVision	1900	Internet Software & Services	United States	351.0	FirstMark Capital, Tiger Global Management, ICONIQ Capital
+126	ironSource	1500	Internet Software & Services	Israel	185.0	Access Industries, Clal Industries and Investments
+127	iTutorGroup	1000	Other	China	315.0	QiMing Venture Partners, Temasek Holdings, Silverlink Capital
+128	JetSmarter	2325	Travel Tech	United States	155.0	Jay-Z, Saudi Royal Family, Jet Edge
+129	JFrog	1000	Internet Software & Services	United States	228.0	Gemini Israel Ventures, VMware, Battery Ventures
+130	Jiuxian	1047	E-commerce	China	249.0	Sequoia Capital China, Rich Land Capital, Merrysunny Wealth
+131	JOLLY Information Technology	1000	E-commerce	China	35.0	Legend Capital, CDH Investments, Sequoia Capital China
+132	Jumia Group	1044	E-commerce	Nigeria	550.0	AXA
+133	Jusfoun Big Data	1615	Internet Software & Services	China	137.0	Boxin Capital, DT Capital Partners, IDG Capital
+134	JUUL Labs	38000	Other	United States	13562.0	Tiger Global Management
+135	Kabbage	1000	Fintech	United States	2449.0	BlueRun Ventures, SV Angel, Mohr Davidow Ventures
+136	Katerra	3000	Other	United States	1291.0	Foxconn Technology Company, Khosla Ventures, Moore Capital Management
+137	Kendra Scott	1000	Other	United States		Berkshire Partners, Norwest Venture Partners
+138	Kik Interactive	1000	Social	Canada	116.0	Union Square Ventures, RRE Ventures, Spark Capital
+139	Klarna	2500	Fintech	Sweden	389.0	Institutional Venture Partners, Sequoia Capital, General Atlantic
+140	Klook	1000	Travel Tech	Hong Kong	296.0	Sequoia Capital China, Goldman Sachs, Matrix Partners China
+141	Koudai	1400	E-commerce	China	362.0	New Enterprise Associates, Tiger Global management, Tencent
+142	Kuaishou	3000	Social	China	360.0	Morningside Venture Capital, Sequoia Capital, Baidu
+143	L&P Cosmetic	1780	Other	South Korea		CDIB Capital
+144	Lakala Payment	1611	Fintech	China	269.0	China Continent Property & Casualty Insurance, China Renaissance Capital Investment, China Taiping Life Insurance
+145	LegalZoom	2000	Internet Software & Services	United States	285.0	K1 Capital, Francisco Partners, Neuberger Berman
+146	letgo	1500	E-commerce	United States	975.0	Accel Partners, FJ Labs, Insight Venture Partners
+147	Lianjia	5769	Internet Software & Services	China	1687.0	Tencent, Baidu, Huasheng Capital
+148	LifeMiles	1146	Other	Colombia	344.0	Advent International
+149	Lime	1100	Travel Tech	United States	467.0	Andreessen Horowitz, Coatue Management, Uber
+150	LinkDoc Technology	1000	Internet Software & Services	China	151.0	China Investment Corporation, New Enterprise Associates
+151	Logic Show	1179	Internet Software & Services	China	188.0	Sequoia Capital China, Qiming Venture Partners, Tencent Holdings
+152	Looker	1600	Internet Software & Services	United States	280.0	Redpoint Ventures, First Round Capital, capitalG
+153	Lookout	1280	Cybersecurity	United States	281.0	Accel Partners, Greylock Partners, Lowercase Capital
+154	Lu.com	38000	Fintech	China	3031.0	Ping An Insurance CDH Investments, Bank of China
+155	luckin coffee	2200	Other	China	400.0	JOY Capital, Lu Zhengyao
+156	Lyft	15100	On-Demand	United States	4762.0	Founders Fund, Mayfield Fund, capitalG
+157	Machine Zone	4169	Other	United States	593.0	J.P. Morgan Chase & Co., Menlo Ventures
+158	Magic Leap	4984	Hardware	United States	2354.0	Obvious Ventures, Qualcomm Ventures, Andreessen Horowitz
+159	Manbang Group	6000	Other	China	2000.0	Softbank Group, CapitalG
+160	Maoyan-Weiying	3012	E-commerce	China	151.0	Tencent Holdings, Enlight Media Group
+161	MarkLogic	1046	Data Analytics	United States	172.0	Sequoia Capital, Tenaya Capital, Northgate Capital
+162	Medallia	1154	Internet Software & Services	United States	255.0	Sequoia Capital
+163	MediaMath	1000	Internet Software & Services	United States	606.0	Silicon Valley Bank, QED Investors, European Founders Fund
+164	Medlinker	1000	Social	China	247.0	China Health Industry Investment Fund, China Renaissance, and Sequoia Capital China
+165	Meicai	2800	Other	China	652.0	Tiger Global Management, Blue Lake Capital, ZhenFund
+166	Meizu Technology	4580	Hardware	China	943.0	Telling Telecommunication Holding Co., Alibaba Group
+167	Mia.com	1000	E-commerce	China	232.0	Sequoia Capital China, ZhenFund, K2 Ventures
+168	MindMaze	1000	Other	Switzerland	118.0	Hinduja Group
+169	MINISO Life	2184	Other	China	146.0	Hillhouse Capital Management, and Tencent Holdings
+170	Mofang Living	1000	Other	China	560.0	Warburg Pincus, Aviation Industry Corporation of China
+171	Momenta	1000	Auto Tech	China	62.0	Sinovation Ventures, Tencent Holdings, Sequoia Capital China
+172	Monzo	1274	Fintech	United Kingdom	272.0	Passion Capital, Thrive Capital, Orange Digital Ventures
+173	Mu Sigma	1500	Data Analytics	United States	208.0	Sequoia Capital, General Atlantic
+174	NetEase Cloud Music	1160	E-commerce	China	708.0	CICC Jiatai Fund, Mango Cultural Creativity Investment Fund, and Shanghai Media Group
+175	Netskope	1000	Internet Software & Services	United States	400.0	Lightspeed Venture Partners, Social Capital, Accel
+176	Nextdoor	1500	Social	United States	285.0	Benchmark Capital, DAG Ventures, Insight Venture Partners
+177	Niantic	4000	Other	United States	470.0	Nintendo, Google, Pokemon Company International, Spark Capital
+178	Nubank	4000	Fintech	Brazil	695.0	Sequoia Capital, Redpoint e.ventures, Kaszek Ventures
+179	NuCom Group	2200	Other	Germany		General Atlantic
+180	Nxin	1078	Internet Software & Services	China	53.0	Beijing Juneng Hesheng Industry Investment Fund, Beijing Shuju Xinrong Fund
+181	OfferUp	1000	E-commerce	United States	261.0	Andreessen Horowitz, GGV Capital, T. Rowe Price
+182	Olacabs	5700	On-Demand	India	3946.0	Accel Partners, SoftBank Group, Sequoia Capital
+183	One97 Communications	10000	Fintech	India	3070.0	Intel Capital, Sapphire Ventures, Alibaba Group
+184	OpenDoor Labs	2000	Other	United States	1180.0	Norwest Venture Partners, New Enterprise Associates, Khosla Ventures
+185	OrCam Technologies	1013	Other	Israel	77.0	Intel Capital, Aviv Venture Capital
+186	Oscar Health	3200	Healthcare	United States	1268.0	BoxGroup, Formation8, Khosla Ventures
+187	Otto Bock HealthCare	3520	Healthcare	Germany	704.0	EQT Partners
+188	Outcome Health	5500	Healthcare	United States	500.0	Goldman Sachs, capitalG, Pritzker Group Venture Capital
+189	OutSystems	1000	Internet Software & Services	Portugal	422.0	KKR, ES Ventures, North Bridge Growth Equity
+190	OVH	1100	Data Analytics	France	1244.0	Kohlberg Kravis Roberts & Co.,TowerBrook Capital Partners
+191	Oxford Nanopore Technologies	1550	Healthcare	United Kingdom	702.0	Illumina, Invesco Perpetual, IP Group
+192	Oyo Rooms	5000	E-commerce	India	1553.0	SoftBank Group, Sequoia Capital India,Lightspeed India Partners
+193	PagerDuty	1300	Internet Software & Services	United States	174.0	Andreessen Horowitz, Harrison Metal, T. Rowe Price
+194	Palantir Technologies	12185	Data Analytics	United States	1944.0	RRE Ventures, Founders Fund, In-Q-Tel
+195	Pat McGrath Labs	1000	E-commerce	United States	82.0	One Luxury Group, Eurazeo
+196	Peloton	4150	Hardware	United States	1003.0	True Ventures, Tiger Global Management, L Catterton
+197	Pinterest	10448	Social	United States	1466.0	Andreessen Horowitz, Bessemer Venture Partners, Firstmark Capital
+198	Plaid Technologies	2650	Fintech	United States	310.0	New Enterprise Associates, Spark Capital,
+199	PolicyBazaar	1000	Fintech	India	347.0	Info Edge, Softbank Capital
+200	Pony.ai	1000	Auto Tech	United States	214.0	Sequoia Capital China, IDG Capital, DCM Ventures
+201	Postmates	1850	On-Demand	United States	679.0	Founders Fund, Matrix Partners, Tiger Global Management
+202	Preferred Networks	2000	Internet Software & Services	Japan	139.0	Toyota Motor Corporation, Mizuho Financial Group, FANUC
+203	Procore Technologies	3000	Other	United States	255.0	Bessemer Venture Partners, O'Connor Ventures, Iconiq Capital
+204	Promasidor Holdings	1593	Other	South Africa	556.0	IFC, Ajinomoto
+205	Proteus Digital Health	1326	Healthcare	United States	417.0	Novartis, Essex Woodlands, The Carlyle Group
+206	Quanergy Systems	2000	Auto Tech	United States	180.0	Delphi Automotive, Samsung Ventures, Motus Ventures
+207	Quora	1743	Internet Software & Services	United States	226.0	Y Combinator, Matrix Partners, Benchmark
+208	Radius Payment Solutions	1067	Internet Software & Services	United Kingdom	200.0	Inflexion Private Equity
+209	Rappi	1000	On-Demand	Colombia	448.0	DST Global, Andreessen Horowitz, Sequoia Capital, Redpoint e.ventures
+210	reddit	1625	Social	United States	250.0	Y Combinator, Sequoia Capital, Coatue Management
+211	ReNew Power Ventures	2286	Other	India	2581.0	Goldman Sachs, JERA, Asian Development Bank
+212	Revolut	1700	Fintech	United Kingdom	336.0	index Ventures, DST Global, Ribbit Capital
+213	Revolution Precrafted	1000	Other	Philippines	15.0	K2 Global, 500 Startups
+214	Robinhood	5600	Fintech	United States	539.0	Google Ventures, Andreessen Horowitz, DST Global
+215	Roblox	2500	Internet Software & Services	United States	250.0	Atlos Ventures, Index Ventures, First Round Capital
+216	Rocket Lab	1000	Other	United States	215.0	Lockheed Martin, Khosla Ventures, Bessemer Venture Partners
+217	Roivant Sciences	7000	Healthcare	Switzerland	1300.0	SoftBankGroup, Founders Fund
+218	Root Insurance	1000	Other	United States	164.0	Tiger Global Management, Ribbit Capital, Redpoint Ventures
+219	Royole Corporation	5000	Hardware	China	1104.0	Warmsun Holding, IDG Capital Partners
+220	Rubicon Global Holdings	1066	Other	United States	278.0	Goldman Sachs, Leonardo DiCaprio, Promecap
+221	Rubrik	3300	Internet Software & Services	United States	553.0	Greylock Partners, Lightspeed Venture Partners, Khosla Ventures
+222	Samsara Networks	3600	Hardware	United States	215.0	Andreessen Horowitz, General Catalyst
+223	Samumed	12000	Healthcare	United States	438.0	Vickers Venture Partners, IKEA GreenTech
+224	Seismic	1000	Internet Software & Services	United States	164.0	Jackson Square Ventures, General Atlantic, Lightspeed Venture Partners
+225	SenseTime	4500	Internet Software & Services	China	1630.0	Star VC, IDG Capital, Infore Capital, Alibaba Group
+226	ServiceTitan	1650	Internet Software & Services	United States	325.0	Bessemer Venture Partners, ICONIQ Capital, Battery Ventures
+227	ShopClues	1100	E-commerce	India	290.0	Nexus Venture Partners, GIC Special Investments, Tiger Global Management
+228	Slack Technologies	7100	Internet Software & Services	United States	1266.0	Google Ventures, Institutional Venture Partners, Index Ventures
+229	SmileDirectClub	3200	Healthcare	United States	427.0	Clayton Dubilier & Rice, Kleiner Perkins Caufield & Byers, Spark Capital
+230	SMS Assist	1000	Internet Software & Services	United States	255.0	Goldman Sachs, Insights Venture Partners, Pritzker Group Venture Capital
+231	Snapdeal	7000	E-commerce	India	1776.0	SoftBankGroup, Blackrock, Alibaba Group
+232	Snowflake Computing	3950	Internet Software & Services	United States	895.0	Redpoint Ventures,Iconiq Capital, Madrona Venture Group
+233	SoFi	4498	E-commerce	United States	2194.0	Baseline Ventures, DCM Ventures, Institutional Venture Partners
+234	SouChe Holdings	3000	Auto Tech	China	1213.0	Morningside Ventures, Warburg Pincus, CreditEase Fintech Investment Fund
+235	SoundHound	1000	Media	United States	214.0	Tencent Holdings, Walden Venture Capital, Global Catalyst Partnera
+236	SoYoung	1000	Social	China	233.0	Orchid Asia Group Management, Russia-China Investment Fund, Matrix Partners China
+237	SpaceX	18520	Other	United States	2158.0	Founders Fund, Draper Fisher Jurvetson, Rothenberg Ventures
+238	Sprinklr	1831	Internet Software & Services	United States	228.0	Azure Capital Partners, Battery Ventures, Intel Capital
+239	Squarespace	1700	Internet Software & Services	United States	278.0	General Atlantic, Index Ventures, Accel Partners
+240	Starry	1290	Internet Software & Services	United States	163.0	Social Capital, Bessemer Venture Partners
+241	Stripe	20250	Fintech	United States	1001.0	Khosla Ventures, Lowercase Capital, capitalG
+242	STX Entertainment	1500	Media	United States	700.0	Tencent, TPG Growth, Hony Capital
+243	Supreme	1000	Other	United States	500.0	The Carlyle Group
+244	sweetgreen	1000	Other	United States	322.0	Red Sea Ventures, Fidelity Investments, Revolution
+245	Swiggy	3300	On-Demand	India	1466.0	Accel India, SAIF Partners, Norwest Venture Partners
+246	Symphony Communication Services	1000	Internet Software & Services	United States	296.0	BNP Paribas, Goldman Sachs, Google
+247	Talkdesk	1000	Internet Software & Services	United States	124.0	DJF, Salesforce Ventures, Storm Ventures
+248	TangoMe	1000	Social	United States	373.0	Draper Fisher Jurtson, Qualcomm Ventures, Alibaba Group
+249	Tanium	6500	Cybersecurity	United States	770.0	Andreessen Horowitz, Nor-Cal Invest, TPG Growth
+250	Taxify	1000	On-Demand	Estonia	177.0	Didi Chuxing, Diamler, TMT Investments
+251	TechStyle Fashion Group	1000	E-commerce	United States	300.0	Matrix Partners, Passport Capital, Rho Ventures
+252	Tempus Labs	2000	Healthcare	United States	320.0	New Enterprise Associates, T. Rowe Associates, Lightbank
+253	Ten-X	1200	Internet Software & Services	United States	142.0	Stone Point Capital, Google Capital
+254	The Hut Group	3253	E-commerce	United Kingdom	2124.0	Kohlberg Kravis Roberts & Co., Old Mutual Global Investors, Artemis Investment Management
+255	Thumbtack	1183	E-commerce	United States	274.0	Tiger Global, Sequoia Capital, Google Capital
+256	Tiger Brokers	1060	Fintech	China	140.0	ZhenFund, China Renaissance, CreditEase Fintech Investment Fund
+257	Toast	1400	Other	United States	253.0	Bessemer Venture Partners, Tiger Global Management, Google Ventures
+258	Tokopedia	7000	E-commerce	Indonesia	2448.0	SoftBankGroup, Alibaba Group, Sequoia Capital India
+259	Tongdun Technology	1000	Cybersecurity	China	136.0	Advantech Capital, Temasek Holdings Ltd., Tiantu Capital Co.
+260	Tradeshift	1100	Fintech	United States	455.0	Notion Capital, Scentan Ventures, Kite Ventures
+261	TransferWise	1600	Fintech	United Kingdom	481.0	IA Ventures, Index Ventures, SV Angel
+262	Traveloka Indonesia	2000	Travel Tech	Indonesia	500.0	Global Founders Capital, East Ventures, Expedia Inc.
+263	Trendy Group International	2000	Other	Hong Kong	200.0	L Capital Partners
+264	TripActions	1000	Travel Tech	United States	236.0	Andreessen Horowitz, Lightspeed Venture Partners, Zeev Ventures
+265	Tuandaiwang	1460	Fintech	China	396.0	Beihai Hongtai Investment, China Minsheng Investment, Yisheng Innovation
+266	Tuhu	1164	Auto Tech	China	580.0	Qiming Venture Partners, Yaxia Automobile, Far East Horizon
+267	TuJia	1500	E-commerce	China	764.0	GGV Capital, QiMing Venture Partnersl
+268	Uber	72000	On-Demand	United States	16859.0	Lowercase Capital, Benchmark Capital, Google Ventures
+269	UBTECH Robotics	5000	Other	China	945.0	CDH Investments, Goldstone Investments, Qiming Venture Partners
+270	Ucommune	3000	Other	China	768.0	Ant Financial Services Group, Dahong Group, Sequoia Capital China
+271	Udaan	1000	E-commerce	India	285.0	DST Global, Lightspeed Venture Partners, Microsoft ScaleUp
+272	UiPath	3000	Internet Software & Services	United States	448.0	Accel Partners, capitalG, Earlybrid Venture Capital, Kleiner Perkins Caufield & Byers
+273	United Imaging Healthcare	5000	Healthcare	China	500.0	China Life Insurance, China Development Bank Capital, CITIC Securities International
+274	Unity Technologies	1835	Other	United States	448.0	Sequoia Capital, iGlobe Partners, DFJ Growth
+275	Uptake Technologies	2300	Data Analytics	United States	287.0	Revolution, New Enterprise Associates, Caterpillar
+276	VANCL	3000	E-commerce	China	522.0	Ceyuan Ventures, QiMing Venture Partners, Temasek Holdings
+277	Vice Media	5700	Media	United States	1220.0	Technology Crossover Ventures, A&E Television Networks
+278	VIPKID	3000	Internet Software & Services	China	826.0	Sequoia Capital China, Tencent Holdings, Sinovation Ventures
+279	VistaJet	2500	On-Demand	Malta		Rhone Capital
+280	Viva Republica (Toss)	1200	Fintech	South Korea	242.0	Bessemer Venture Partners, Qualcomm Ventures, Kleiner Perkins Caufield & Byers
+281	Vox Media	1000	Media	United States	325.0	Accel Partners, Comcast Ventures, General Atlantic
+282	WalkMe	1000	Internet Software & Services	United States	218.0	Gemini Israel Ventures, Insight Venture Partners, Giza Venture Capital
+283	Warby Parker	1750	E-commerce	United States	291.0	BoxGroup, Felicis Ventures, First Round Capital
+284	We Doctor	5500	Healthcare	China	1036.0	Tencent, Morningside Group
+285	WeWork	47000	Other	United States	6461.0	T. Rowe Price, Benchmark Capital, SoftBank Group
+286	Wish	3000	E-commerce	United States	719.0	Founders Fund, GGV Capital, Digital Sky Technologies
+287	Woowa Brothers	2600	E-commerce	South Korea	458.0	Hillhouse Capital Management, Altos Ventures, Sequoia Capital
+288	Xiaohongshu	3000	E-commerce	China	418.0	GGV Capital, ZhenFund, Tencent
+289	XiaoZhu	1000	E-commerce	China	500.0	Morningside Ventures, Capital Today, JOY Capital
+290	XPeng Motors	3654	Auto Tech	China	1343.0	Morningside Venture Capital, Foxconn Technology Company, Alibaba Group
+291	Yello Mobile	4000	Other	South Korea	216.0	Formation 8
+292	YH Global	1000	Other	China	182.0	Co-Energy Finance, Grandland
+293	Yidian Zixun	1000	Media	China	176.0	Phoenix New Media
+294	Yijiupi	1100	E-commerce	China	367.0	Source Code Capital, Meituan Dianping, Tencent Holdings
+295	YITU Technology	2365	Internet Software & Services	China	355.0	Sequoia Capital China, Banyan Capital
+296	Yixia	1000	Social	China	775.0	Sequoia Capital China, Sina Weibo, Kleiner Perkins Caufield & Byers, Redpoint Ventures
+297	Youxia Motors	3350	Auto Tech	China	1326.0	China Environmental Protection Industry, China Fortune Ocean
+298	Yuanfudao	3000	Internet Software & Services	China	544.0	Tencent Holdings, Warbug Pincus, IDG Capital
+299	Zenefits	2088	Fintech	United States	584.0	SV Angel, Institutional Venture Partners, Venrock
+300	Zeta Global	1300	Internet Software & Services	United States	380.0	GSO Capital Partners, Franklin Square
+301	Zhaogang	1000	E-commerce	China	361.0	K2 Ventures, Matrix Partners China, IDG Capital
+302	Zhihu	2500	Internet Software & Services	China	502.0	Tencent Holdings, Sinovation Ventures, Qiming Venture Partners
+303	ZipRecruiter	1000	Internet Software & Services	United States	219.0	Basepoint Ventures,Industry Ventures, and Institutional Venture Partners
+304	ZocDoc	1769	Healthcare	United States	226.0	Founders Fund, Khosla Ventures, Goldman Sachs
+305	Zomato	2000	Social	India	374.0	Sequoia Capital, VY Capital
+306	Zoom Video Communications	1000	Internet Software & Services	United States	142.0	Sequoia Capital, Qualcomm Ventures, Emergence Capital Partners
+307	Zoox	3200	Auto Tech	United States	790.0	AID Partners, Draper Fisher Jurvetson
+308	Zume Pizza	2250	On-Demand	United States	446.0	Softbank Group, AME Cloud Ventures, SignalFire
